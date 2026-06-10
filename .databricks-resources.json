@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "type": "volume",
+      "name": "vhd_demos_catalog.webinar_aidevkit.files",
+      "id": "vhd_demos_catalog.webinar_aidevkit.files",
+      "created_at": "2026-06-10T20:29:33.994877+00:00",
+      "updated_at": "2026-06-10T20:29:33.994877+00:00"
+    }
+  ]
+}
